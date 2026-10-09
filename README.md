@@ -5,10 +5,10 @@ Interactive Tableau dashboard analysing sales, profit, and business performance 
 ## Dashboard Preview
 
 ### Sales Dashboard
-![Sales Dashboard]/Screenshots/(Salesdashboard.png.png)
+![Sales Dashboard](Screenshots/Salesdashboard.png.png)
 
 ### Profit Dashboard
-![Profit Dashboard](Profitdashboard.png.png)
+![Profit Dashboard](Screenshots/Profitdashboard.png.png)
 
 ## Project Overview
 
