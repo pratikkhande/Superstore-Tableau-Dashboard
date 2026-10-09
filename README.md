@@ -10,6 +10,10 @@ Interactive Tableau dashboard analysing sales, profit, and business performance 
 ### Profit Dashboard
 ![Profit Dashboard](Screenshots/Profitdashboard.png.png)
 
+### Category_wise_filter [Office Supplies]
+![Category_wise_filter].(Screenshots/CategoryOfficeSupplies_Filter.png.png).
+
+
 ## Project Overview
 
 This project uses Tableau to analyse Superstore USA data and present business insights through interactive visualizations.
