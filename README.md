@@ -10,8 +10,11 @@ Interactive Tableau dashboard analysing sales, profit, and business performance 
 ### Profit Dashboard
 ![Profit Dashboard](Screenshots/Profitdashboard.png.png)
 
-### Category_wise_filter [Office Supplies]
-![Category_wise_filter].(Screenshots/CategoryOfficeSupplies_Filter.png.png).
+### Category Wise Filter [Office Supplies]
+![Category Wise Filter - Office Supplies](Screenshots/CategoryOfficeSupplies_Filter.png.png)
+
+### Category Wise Filter [Technology]
+![Category Wise Filter - Technology](Screenshots/CategoryTechnology_Filter.png.png)
 
 
 ## Project Overview
